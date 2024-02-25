@@ -1,0 +1,11 @@
+In this project, I will analyze into a large sales dataset to extract valuable insights and also explore sales trends over time, identify the best-selling products, calculate revenue metrics such as total sales and profit margins, and create visualizations to present your findings effectively. This project showcases your ability to manipulate and derive insights from large datasets, enabling you to make data-driven recommendations for optimizing sales strategies.
+
+Sales data Dashboard contains :
+1) Card - Revenue, Sales Quantity, and Profit Margin.
+2) Slicer - By Cities, Products, Months and Weekdays.
+3) Line Chart - Sum of sales by month.
+4) Filled Map - Top 5 cities by Sales.
+5) Stacked Column Chart - Sales by weekday.
+6) Treemap - Top 5 Products by sales.
+7) Stacked bar chart - Top 5 ordered Quantity by product.
+Also, Attached logos and image in the sales dashboard.
